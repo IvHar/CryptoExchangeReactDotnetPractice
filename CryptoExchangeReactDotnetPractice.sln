@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoExchangeReactDotnetPractice.Server", "CryptoExchangeReactDotnetPractice.Server\CryptoExchangeReactDotnetPractice.Server.csproj", "{D2985053-A937-45FE-8AF9-1105D3566806}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "cryptoexchangereactdotnetpractice.client", "cryptoexchangereactdotnetpractice.client\cryptoexchangereactdotnetpractice.client.esproj", "{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2985053-A937-45FE-8AF9-1105D3566806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2985053-A937-45FE-8AF9-1105D3566806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2985053-A937-45FE-8AF9-1105D3566806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2985053-A937-45FE-8AF9-1105D3566806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B6FCC1-9C45-432E-8EA3-9B0BADFE30EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67357A8-7686-4178-B109-3104D6859D63}
+	EndGlobalSection
+EndGlobal
